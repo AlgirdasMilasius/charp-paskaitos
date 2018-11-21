@@ -14,6 +14,7 @@ namespace Console_game_1
             var rand = new Random();
 
             var ListOfWeapons = new List<string>() { "FISTS", "Axe", "Sword", "Mace" };
+
             Console.WriteLine("First victim:");
             var User = new Player(p.Name(), p.HitPoints(), p.WeaponOfChoice(ListOfWeapons));
             Console.WriteLine("Second victim:");
