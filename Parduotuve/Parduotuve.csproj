@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FA8B9212-9F27-490B-82DB-E75A2BFACB86}</ProjectGuid>
+    <ProjectGuid>{2C055D30-6B95-4545-9598-8805BBD333F1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Class</RootNamespace>
-    <AssemblyName>Class</AssemblyName>
+    <RootNamespace>Parduotuve</RootNamespace>
+    <AssemblyName>Parduotuve</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Alus.cs" />
+    <Compile Include="Gerimas.cs" />
+    <Compile Include="Parduotuve.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

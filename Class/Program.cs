@@ -8,7 +8,7 @@ namespace Class
 {
     class Lengva
     {
-        public string Pamoka;
+        public string Pamoka ;
         public int Pazymys;
         public bool SuoloDraugas;
 
@@ -73,6 +73,9 @@ namespace Class
             objektas3.Nusirasinet();
             objektas3.Nusirasinet();
             objektas3.Isvedimas();
+
+            var gerimas = new Alus(7, 0.568, "gintarinis", "can", 8);
+            gerimas.Isvedimas();
 
         }
     }

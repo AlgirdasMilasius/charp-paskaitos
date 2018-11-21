@@ -323,6 +323,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console game 1", "Console g
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class", "Class\Class.csproj", "{FA8B9212-9F27-490B-82DB-E75A2BFACB86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parduotuve", "Parduotuve\Parduotuve.csproj", "{2C055D30-6B95-4545-9598-8805BBD333F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -893,6 +895,10 @@ Global
 		{FA8B9212-9F27-490B-82DB-E75A2BFACB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA8B9212-9F27-490B-82DB-E75A2BFACB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA8B9212-9F27-490B-82DB-E75A2BFACB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C055D30-6B95-4545-9598-8805BBD333F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C055D30-6B95-4545-9598-8805BBD333F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C055D30-6B95-4545-9598-8805BBD333F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C055D30-6B95-4545-9598-8805BBD333F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1042,6 +1048,7 @@ Global
 		{B3539E77-0FE2-4383-BC14-676F129F7308} = {1E958BC0-E21F-4F9C-8160-71B5692428B8}
 		{5762668E-4E46-4A58-B0A7-52DE6A383E79} = {1E958BC0-E21F-4F9C-8160-71B5692428B8}
 		{FA8B9212-9F27-490B-82DB-E75A2BFACB86} = {1E958BC0-E21F-4F9C-8160-71B5692428B8}
+		{2C055D30-6B95-4545-9598-8805BBD333F1} = {1E958BC0-E21F-4F9C-8160-71B5692428B8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BCCAC77E-CC35-406A-B2CE-469025E90FAB}
